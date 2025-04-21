@@ -30,20 +30,21 @@ port: 'SUA_PORTA'
 ## Como Rodar o Projeto
 
 ### Backend
-`cd ./backend/`
-`npm install`
-`npm start`
-
+```bash
+cd ./backend/
+npm install
+npm start
+```
 deixe esse terminal aberto rodando
 
 ### Frontend
 
 em outro terminal repita o processo para o frontend
-
-`cd ./frontend/`
-`npm install`
-`npm start`
-
+```bash
+cd ./frontend/
+npm install
+npm start
+```
 
 ## Acesso ao projeto
 
