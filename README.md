@@ -25,7 +25,7 @@ user: 'SEU_USUARIO',
 password: 'SUA_SENHA',
 database: 'SEU_BANCO',
 port: 'SUA_PORTA'
-
+```
 
 ## Como Rodar o Projeto
 
